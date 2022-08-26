@@ -3,7 +3,7 @@
 
 **Nombre del Docente:** Ing. Darwin Alulema
 
-**Fecha de entrega:** 15/08/2022
+**Fecha de entrega:** 26/08/2022
 
 **NRC:** 7309
 
@@ -34,13 +34,7 @@ Investigue: el concepto de fasor en su forma rectangular y polar. Así mismo su 
 
 **9.5.1. Sin emplear calculadora. Transforme a su forma polar:**
 
-![image](https://user-images.githubusercontent.com/105742149/186809118-e3a9f4cc-d62b-429f-a914-5e445de190d1.png)
-
-![image](https://user-images.githubusercontent.com/105742149/186809154-9418e406-33e6-4efa-9f8e-4b9a5264914b.png)
-
-![image](https://user-images.githubusercontent.com/105742149/186809174-b4735625-bfd3-4df0-9b0d-49da8deda5a5.png)
-
-![image](https://user-images.githubusercontent.com/105742149/186809198-60e97226-bf50-42f9-8953-a2cf94370a30.png)
+![image](https://user-images.githubusercontent.com/105742149/186947398-31cb5261-44c5-4c45-a611-41fdc5ba48ce.png)
 
 **9.5.2 Sin emplear calculadora. Transforme a su forma rectangular:**
 
@@ -63,6 +57,8 @@ Investigue: el concepto de fasor en su forma rectangular y polar. Así mismo su 
 **9.5.3. Sin emplear calculadora. Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.**
 
 ![image](https://user-images.githubusercontent.com/105742149/186809589-1ba19298-b0c4-4110-b94f-85fa2205f907.png)
+
+![image](https://user-images.githubusercontent.com/105742149/186947444-9fbab881-da9c-4327-9235-1682e7b6ea7b.png)
 
 ![image](https://user-images.githubusercontent.com/105742149/186831884-4864e5b7-ab7d-4c9b-b3ac-c70f703e8625.png)
 
