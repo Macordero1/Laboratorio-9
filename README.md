@@ -26,6 +26,9 @@ Investigue: el concepto de fasor en su forma rectangular y polar. Así mismo su 
 
 ## **9.3. Información General**
 
+![image](https://user-images.githubusercontent.com/105742149/186949535-140709e6-4c6a-452e-b9b4-3f3477f4624f.png)
+
+
 ## **9.4. Material y equipo requerido**
 
 ![image](https://user-images.githubusercontent.com/105742149/186809074-fec58cfb-995b-4ac6-b687-e4e39af6019a.png)
@@ -84,3 +87,5 @@ Investigue: el concepto de fasor en su forma rectangular y polar. Así mismo su 
 * El Fasor es una representación de una onda seno en funcionalidad de su intensidad (amplitud) y dirección (ángulo de fase). 
 
 ## **Bibliografia**
+
+Floyd, T. (2007). Principios de circuitos eléctricos (8va ed). México DF, México: Pearson Educación.
