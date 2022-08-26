@@ -73,13 +73,38 @@ Investigue: el concepto de fasor en su forma rectangular y polar. Así mismo su 
 
 ![image](https://user-images.githubusercontent.com/105742149/186946749-f68bf77d-d181-4d82-bb08-97436c4bfb5f.png)
 
-**9.5.4 Resuelva las operaciones anteriores por medio de la calculadora y compareresultados.**
+**9.6. Resuelva las operaciones anteriores por medio de la calculadora y compareresultados.**
+
+**9.6.1 Transforme a su forma polar:**
+
+![image](https://user-images.githubusercontent.com/105742149/186950961-bcf4425e-795e-4775-94cd-8ce49174fbda.png)
+
+![image](https://user-images.githubusercontent.com/105742149/186950979-0c8019b4-4251-435f-b2f6-a084c5c63240.png)
+
+![image](https://user-images.githubusercontent.com/105742149/186950994-120e0fdd-b376-4f1b-b18e-38a7e6ee3dd5.png)
+
+![image](https://user-images.githubusercontent.com/105742149/186951003-b5a7267d-0f68-471f-98da-7825e68fdab0.png)
+
+
+**9.6.2 Transforme a su forma rectangular:**
+
+![image](https://user-images.githubusercontent.com/105742149/186950624-b1ba471a-05b9-4f57-9f97-74e65ec1f9e2.png)
+
+![image](https://user-images.githubusercontent.com/105742149/186950640-70407674-a4df-436c-a5db-12c27d154423.png)
+
+![image](https://user-images.githubusercontent.com/105742149/186950670-5910a14e-2c9a-45f7-aaed-861b5ad5dd63.png)
+
+![image](https://user-images.githubusercontent.com/105742149/186950690-5517e831-6de6-4de5-88cf-fe01b5c5971c.png)
+
+**9.6.3 Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como su forma polar.**
 
 ![image](https://user-images.githubusercontent.com/105742149/186949326-1be81c21-b834-415f-9680-89cddcdf0380.png)
 
 ![image](https://user-images.githubusercontent.com/105742149/186949364-fdf4cbf3-eeea-44d7-b8d2-79468ae3542d.png)
 
 ![image](https://user-images.githubusercontent.com/105742149/186949395-fbd629f1-afb1-4b5f-abea-3a5677568c38.png)
+
+
 
 ## **9.6 Conclusiones**
 
