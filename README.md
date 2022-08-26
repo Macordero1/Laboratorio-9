@@ -50,4 +50,7 @@ Investigue: el concepto de fasor en su forma rectangular y polar. Así mismo su 
 
 ## **9.6 Conclusiones**
 
+* Los fasores puede representarse en maneras rectangular y polar son 2 maneras de números complicados que se aplican para representar porciones fasoriales. Cada una tiene ciertas ventajas una vez que se usa en estudio de circuitos, de acuerdo con la aplicación especial. Una porción fasorial tiene tanto intensidad como postura angular o etapa. 
+* El Fasor es una representación de una onda seno en funcionalidad de su intensidad (amplitud) y dirección (ángulo de fase). 
+
 ## **Bibliografia**
