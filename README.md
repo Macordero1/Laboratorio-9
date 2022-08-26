@@ -60,8 +60,6 @@ Investigue: el concepto de fasor en su forma rectangular y polar. Así mismo su 
 
 ![image](https://user-images.githubusercontent.com/105742149/186947444-9fbab881-da9c-4327-9235-1682e7b6ea7b.png)
 
-
-
 ![image](https://user-images.githubusercontent.com/105742149/186809615-4ac5d619-ecc4-4948-859c-ff8c2307173e.png)
 
 ![image](https://user-images.githubusercontent.com/105742149/186831884-4864e5b7-ab7d-4c9b-b3ac-c70f703e8625.png)
@@ -72,8 +70,13 @@ Investigue: el concepto de fasor en su forma rectangular y polar. Así mismo su 
 
 ![image](https://user-images.githubusercontent.com/105742149/186946749-f68bf77d-d181-4d82-bb08-97436c4bfb5f.png)
 
-
 **9.5.4 Resuelva las operaciones anteriores por medio de la calculadora y compareresultados.**
+
+![image](https://user-images.githubusercontent.com/105742149/186949326-1be81c21-b834-415f-9680-89cddcdf0380.png)
+
+![image](https://user-images.githubusercontent.com/105742149/186949364-fdf4cbf3-eeea-44d7-b8d2-79468ae3542d.png)
+
+![image](https://user-images.githubusercontent.com/105742149/186949395-fbd629f1-afb1-4b5f-abea-3a5677568c38.png)
 
 ## **9.6 Conclusiones**
 
