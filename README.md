@@ -68,6 +68,10 @@ Investigue: el concepto de fasor en su forma rectangular y polar. Así mismo su 
 
 ![image](https://user-images.githubusercontent.com/105742149/186809615-4ac5d619-ecc4-4948-859c-ff8c2307173e.png)
 
+![image](https://user-images.githubusercontent.com/105742149/186946725-b425396e-c1df-4b91-892d-a0c8b6208877.png)
+
+![image](https://user-images.githubusercontent.com/105742149/186946749-f68bf77d-d181-4d82-bb08-97436c4bfb5f.png)
+
 ![image](https://user-images.githubusercontent.com/105742149/186809632-62614c67-13e0-4439-ae67-4953477f546e.png)
 
 **9.5.4 Resuelva las operaciones anteriores por medio de la calculadora y compareresultados.**
