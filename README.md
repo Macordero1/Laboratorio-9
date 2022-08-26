@@ -47,11 +47,11 @@ Investigue: el concepto de fasor en su forma rectangular y polar. Así mismo su 
 
 ![image](https://user-images.githubusercontent.com/105742149/186809589-1ba19298-b0c4-4110-b94f-85fa2205f907.png)
 
-![image](https://user-images.githubusercontent.com/105742149/186947444-9fbab881-da9c-4327-9235-1682e7b6ea7b.png)
+![image](https://user-images.githubusercontent.com/105742149/186955474-35447b16-5c21-4bff-af5f-ceb5ba640e7e.png)
 
 ![image](https://user-images.githubusercontent.com/105742149/186809615-4ac5d619-ecc4-4948-859c-ff8c2307173e.png)
 
-![image](https://user-images.githubusercontent.com/105742149/186831884-4864e5b7-ab7d-4c9b-b3ac-c70f703e8625.png)
+![image](https://user-images.githubusercontent.com/105742149/186955533-945c8357-30c3-4120-a1bf-c8bddae0b7f7.png)
 
 ![image](https://user-images.githubusercontent.com/105742149/186809632-62614c67-13e0-4439-ae67-4953477f546e.png)
 
