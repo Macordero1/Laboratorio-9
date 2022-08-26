@@ -44,7 +44,21 @@ Investigue: el concepto de fasor en su forma rectangular y polar. Así mismo su 
 
 **9.5.2 Sin emplear calculadora. Transforme a su forma rectangular:**
 
+![image](https://user-images.githubusercontent.com/105742149/186809500-9482ecb8-dc7b-409c-a716-ffce92c442eb.png)
+
+![image](https://user-images.githubusercontent.com/105742149/186809526-179ee028-41ed-414f-8d7b-56741c65d2d4.png)
+
+![image](https://user-images.githubusercontent.com/105742149/186809541-b895f35e-ec41-4435-aa00-58b31f0d1fb5.png)
+
+![image](https://user-images.githubusercontent.com/105742149/186809561-52f5628d-97a1-4bb9-b50d-1828dcdc6c00.png)
+
 **9.5.3. Sin emplear calculadora. Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.**
+
+![image](https://user-images.githubusercontent.com/105742149/186809589-1ba19298-b0c4-4110-b94f-85fa2205f907.png)
+
+![image](https://user-images.githubusercontent.com/105742149/186809615-4ac5d619-ecc4-4948-859c-ff8c2307173e.png)
+
+![image](https://user-images.githubusercontent.com/105742149/186809632-62614c67-13e0-4439-ae67-4953477f546e.png)
 
 **9.5.4 Resuelva las operaciones anteriores por medio de la calculadora y compareresultados.**
 
